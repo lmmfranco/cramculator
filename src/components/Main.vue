@@ -73,16 +73,16 @@
           </div>
           <span class="ingredient-marks" v-if="isIngredientPicked(ingredient)">
             <span :class="selectedIngredient1 === ingredient ? 'selected' : ''">
-              &diams;
+              &bull;
             </span>
             <span :class="selectedIngredient2 === ingredient ? 'selected' : ''">
-              &diams;
+              &bull;
             </span>
             <span :class="selectedIngredient3 === ingredient ? 'selected' : ''">
-              &diams;
+              &bull;
             </span>
             <span :class="selectedIngredient4 === ingredient ? 'selected' : ''">
-              &diams;
+              &bull;
             </span>                                    
           </span>
         </div>
