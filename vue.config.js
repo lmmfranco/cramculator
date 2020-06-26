@@ -1,3 +1,6 @@
 module.exports = {
-    publicPath: '/cramculator/'
+    publicPath: '/cramculator/',
+    devServer: {
+        public: "0.0.0.0:8080"
+    }
 }
