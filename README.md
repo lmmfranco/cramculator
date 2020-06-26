@@ -1,19 +1,10 @@
-# cramculator
+# Cramculator
 
-## Project setup
-```
-npm install
-```
+## About
+Calculator for Cram-o-matic item combinations in Pokémon Sword/Shield Isle of Armor DLC.
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
+## Credits
+This project uses data compiled by dozens of people, including: [Bulbapedia](https://bulbapedia.bulbagarden.net/wiki/Cram-o-matic), [Serebii](https://serebii.net/swordshield/cram-o-matic.shtml) and [Austin John](https://www.youtube.com/watch?v=TieEbKKaf1o).
 
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+## Contributing
+Feel free to send a pull request or open an issue if something is not working as intended or you belive could be better..
